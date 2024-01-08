@@ -2,6 +2,6 @@
 
 This is a repository created by created by "Amiya"
 
-##usage
+#usage
 
 Run this command to excute the application
